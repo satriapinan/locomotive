@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="express" type="NodeJSConfigurationType" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/express">
+    <envs>
+      <env name="DEBUG" value="express:*" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeStartBrowserRunConfigurationExtension">
+      <browser url="http://localhost:3000/" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>

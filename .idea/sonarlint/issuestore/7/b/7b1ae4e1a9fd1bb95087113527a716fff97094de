@@ -1,0 +1,13 @@
+
+[	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(™¹ù
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€½ÿÿÿÿÿÿ
+~
+java:S1488]"cImmediately return this expression instead of assigning it to the temporary variable "summaryList".(‚âÚ²şÿÿÿÿ
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÖ®ñ
+n
+java:S2139_"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç°ÿùÿÿÿÿ
+G
+java:S1602{",Remove useless curly braces around statement(üÙÔÍıÿÿÿÿ
+o
+java:S2139›"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
